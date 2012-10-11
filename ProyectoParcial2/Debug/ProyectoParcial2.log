@@ -1,0 +1,20 @@
+﻿Compilación iniciada a las 11/07/2012 11:02:28.
+     1>Proyecto "D:\Estudios\Universidad\ESPOL\II Semestre - 2011 I Término\Fundamentos de programación\ProyectoParcial2\ProyectoParcial2\ProyectoParcial2.vcxproj" en el nodo 2 (build destinos).
+     1>InitializeBuildStatus:
+         Se creará "Debug\ProyectoParcial2.unsuccessfulbuild" porque se especificó "AlwaysCreate".
+       ClCompile:
+         Todas las salidas están actualizadas.
+       ManifestResourceCompile:
+         Todas las salidas están actualizadas.
+       Link:
+         Todas las salidas están actualizadas.
+       Manifest:
+         Todas las salidas están actualizadas.
+       FinalizeBuildStatus:
+         Se eliminará el archivo "Debug\ProyectoParcial2.unsuccessfulbuild".
+         Aplicando tarea Touch a "Debug\ProyectoParcial2.lastbuildstate".
+     1>Compilación del proyecto terminada "D:\Estudios\Universidad\ESPOL\II Semestre - 2011 I Término\Fundamentos de programación\ProyectoParcial2\ProyectoParcial2\ProyectoParcial2.vcxproj" (build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:00.86
